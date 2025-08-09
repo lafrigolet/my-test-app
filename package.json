@@ -39,5 +39,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://lafrigolet.github.io/my-test-app"
+  "homepage": "https://lafrigolet.github.io/my-test-app",
+  "devDependencies": {
+    "@firebase/rules-unit-testing": "^5.0.0",
+    "firebase-tools": "^14.12.0"
+  }
 }
